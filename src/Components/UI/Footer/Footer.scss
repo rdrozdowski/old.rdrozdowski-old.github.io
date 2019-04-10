@@ -7,6 +7,16 @@ footer {
   width: 100%;
   margin: auto;
   background-color: #df9b49;
-  color: rgb(78, 47, 22);
   text-align: right;
+
+  a {
+    color: #fff;
+
+    &:hover {
+      text-decoration: none;
+      color: #fff;
+    }
+
+  }
+
 }
